@@ -40,3 +40,5 @@ def run_game():
                          play_botton);        
         
 run_game();
+
+print("hello world")
